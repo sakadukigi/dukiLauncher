@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">dukiLauncher</string>
+    <string name="screen_off_service_label">dukiLauncher（画面オフ）</string>
+    <string name="screen_off_service_description">ホーム画面をダブルタップしたときに画面を消すために使います。画面の内容は読み取りません。</string>
+</resources>
